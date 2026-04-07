@@ -1,0 +1,15 @@
+accelerate
+beautifulsoup4
+fastapi
+gradio>=4.0.0
+lxml
+numpy
+openpyxl
+pandas
+pydantic
+requests
+scikit-learn
+sentence-transformers
+torch
+transformers
+uvicorn[standard]
